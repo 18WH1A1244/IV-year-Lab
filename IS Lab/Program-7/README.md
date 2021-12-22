@@ -5,5 +5,5 @@ using Blowfish.Create your own key using Java key tool.
 
 
 ### Output
-![output](Program-7_Output.png)
+![output](Program7_Output.png)
 
