@@ -5,4 +5,4 @@ program should XOR each character in this string with 0 and displays the result.
 
 
 ### Output
-![output](program1.png)
+![output](program-1.png)
