@@ -4,4 +4,4 @@ program should AND or and XOR each character in this string with 127 and display
 result.
 
 ### Output
-![output](Program-2_Output.png)
+![output](Program-2_Output.jpeg)
